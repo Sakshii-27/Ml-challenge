@@ -1,0 +1,15 @@
+# Exclude large dataset files (2.4 GB)
+dataset/
+output/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
